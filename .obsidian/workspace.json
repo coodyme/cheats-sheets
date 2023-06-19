@@ -1,35 +1,48 @@
 {
   "main": {
-    "id": "f91d8ae94cb5782e",
+    "id": "c7c17ce40d8e82a7",
     "type": "split",
     "children": [
       {
-        "id": "1fdb5bd2850858a1",
+        "id": "0f0e0ca17746ea59",
         "type": "tabs",
         "children": [
           {
-            "id": "455b1bc7de09db55",
+            "id": "87ce9ead16c6416c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d3661ab1db70ae17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketplace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4c81b61027eadca6",
+    "id": "a937db1457260a06",
     "type": "split",
     "children": [
       {
-        "id": "145803fa6d8952c6",
+        "id": "3f1cc3216a887eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "afd48fec4f9cf94d",
+            "id": "6e70da4770683ab6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +52,7 @@
             }
           },
           {
-            "id": "c0854c16bd1a2a53",
+            "id": "7e2498b87961fc15",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +67,7 @@
             }
           },
           {
-            "id": "287621b8ee2696e4",
+            "id": "a4a433eb0a110fd7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "5e3758be5a058a86",
+    "id": "a0212a2be14d8b29",
     "type": "split",
     "children": [
       {
-        "id": "0e62ca399f83a794",
+        "id": "b77e2a7d2c97ba60",
         "type": "tabs",
         "children": [
           {
-            "id": "8e56af833f8907c4",
+            "id": "e303c8e4e4ad728f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Marketplace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +106,19 @@
             }
           },
           {
-            "id": "ecf1d7cfe472718f",
+            "id": "a30f84c8c4486299",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Marketplace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "863589d82a0ec398",
+            "id": "b52bcb14f5f2f6f8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +129,13 @@
             }
           },
           {
-            "id": "345d9efcb4ce720c",
+            "id": "9ac67203d7ba547a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Marketplace.md"
+              }
             }
           }
         ]
@@ -138,6 +155,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "455b1bc7de09db55",
-  "lastOpenFiles": []
+  "active": "d3661ab1db70ae17",
+  "lastOpenFiles": [
+    "Marketplace.md"
+  ]
 }
