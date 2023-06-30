@@ -22,7 +22,6 @@
     },
     "iconInTabsEnabled": false
   },
-  "attachments": "LiArchive",
   "aws": "FabAws",
   "cypress": "FasPrescriptionBottle",
   "docker": "FabDocker",
