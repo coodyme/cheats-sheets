@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGlobe",
       "LiBuilding",
       "LiFolder",
       "FabVuejs",
-      "FasPrescriptionBottle",
-      "LiType"
+      "FasPrescriptionBottle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,7 @@
   "postgres": "LiDatabase",
   "nodejs": "FabNodeJs",
   "nestjs": "LiFolder",
-  "http": "LiFolder",
+  "http": "LiGlobe",
   "javascript": "FabJs",
   "jest": "LiFolder",
   "patterns": "LiFolder",
