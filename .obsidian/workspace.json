@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5324ff3f95f3bef1",
+        "id": "ca043d4139b2aa83",
         "type": "tabs",
         "children": [
           {
-            "id": "53303d05d51882be",
+            "id": "3fca7d6082c3bda1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/count.md",
+                "file": "network/Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "count",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 240.5
   },
   "right": {
     "id": "9941d871b9c3b5ca",
@@ -93,14 +93,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/count.md",
+                "file": "network/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/count.md",
+                "file": "network/Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/count.md"
+                "file": "network/Network.md"
               }
             }
           },
@@ -144,13 +144,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "93e215b03f2424fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 664.5,
+    "width": 249.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -162,62 +171,61 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "copilot:Copilot Chat": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "f207faee92255fd5",
   "lastOpenFiles": [
-    "linux/Commands.md",
-    "linux/count.md",
-    "linux/Config.md",
-    "README.md",
-    "http/cURL.md",
-    "http",
+    "count.md",
+    "rsync.md",
     "Marketplace.md",
-    "-/templates",
-    "-",
-    "-/attachments",
-    "other/Untitled",
-    "attachments/canvas/Untitled.canvas",
-    "attachments/exacalidraw/Drawing 2023-06-24 21.43.20.excalidraw.md",
-    "attachments/nest_jwt_0.png",
-    "attachments/exacalidraw",
-    "attachments/canvas",
-    "attachments/excalidraw",
-    "-/attachments",
-    "-/templates/TEMPLATE.md",
-    "-/attachments",
-    "devops/Continuos Integration.md",
-    "databases/Untitled.png",
-    "databases/SQL Básico 0054c1ac545941c1b7b7a6212a01dc0c.md",
-    "databases/SQL Avançado ceac15b91e1f42bea0fe47cb94c1dc6a.md",
-    "databases/PostgreSQL.md",
-    "databases/PostgreSQL f8169443c31c455d93d9835255413c2c.md",
-    "databases/Introdução ao SQL b96a420add72460f974d0ee2b4fd954b.md",
-    "databases/How To Install and Use PostgreSQL on Ubuntu 20 04 9601fd852851406d99effb53ed0360e0.md",
-    "databases/Entendendo SQL.md",
-    "patterns/Factory Pattern.md",
-    "devops/Continuos Delivery.md",
-    "devops/aws/extend-file-system.md",
-    "devops/aws/aws-session-manager.md",
-    "aws-ec2.md",
-    "dba/PostgreSQL f8169443c31c455d93d9835255413c2c.md",
-    "dba/PostgreSQL.md",
-    "dba/Introdução ao SQL b96a420add72460f974d0ee2b4fd954b.md",
-    "dba/How To Install and Use PostgreSQL on Ubuntu 20 04 9601fd852851406d99effb53ed0360e0.md",
-    "dba/Entendendo SQL.md",
-    "Pasted image 20230616160314.png",
-    "excalidraw/Drawing 2023-06-16 13.47.00.excalidraw.png",
-    "Pasted image 20230616134715.png",
-    "zendesk/images/zendesk_oauth_ss_0.png",
-    "excalidraw/Drawing 2023-06-12 13.17.09.excalidraw.png",
-    "Pasted image 20230612131814.png",
-    "Pasted image 20230612131829.png",
-    "Pasted image 20230612131809.png",
+    "Config.md",
+    "Commands.md",
+    "git/git-stash.md",
+    "github/github-flow.md",
+    "github/how-to-contribute.md",
+    "git/trunk-based-developmentvs-git-flow.md",
+    "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
+    "-/attachments/diagram-export-11-15-2023-7_49_28-PM.png",
+    "README.md",
+    "-/attachments/diagram-export-11-15-2023-7_52_26-PM.png",
+    "2023-11-15.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
+    "Untitled 2.canvas",
+    "react/state-and-props.md",
+    "react/redux.md",
+    "react/react-router.md",
+    "react/useEffect-and-useLayoutEffect.md",
+    "react/useState-and-useRef.md",
+    "react/useMemo-and-useCallback.md",
+    "react/what-is-a-react-hook.md",
+    "react/what-is-jsx.md",
+    "react/what-is-prop-drilling.md",
+    "react/zustand-and-react-query.md",
+    "react/lifecycle-methods.md",
+    "react/keys-in-react.md",
+    "react/high-order-components.md",
+    "react/controlled-vs-uncontrolled-components.md",
+    "react/dom-virtual-dom-shadow-dom.md",
+    "-/attachments/event-loop-0.gif",
+    "-/attachments/dom-virtual-dom-shadow-dom-00.png",
+    "-/attachments/state-and-props-00.png",
+    "-/attachments/Recording 20231115145219.webm",
+    "-/attachments/Recording 20231115145216.webm",
+    "-/attachments/Pasted image 20230707081930.png",
+    "-/attachments/nest_jwt_3.png",
+    "-/attachments/nest_jwt_1.png",
+    "-/attachments/nest_jwt_0.png",
+    "react/7-api-calls",
+    "react/6-styling",
+    "react/5-state-management",
+    "react/4-routers",
+    "react/zustand",
+    "azure",
+    "redis",
+    "postgresql",
+    "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]
 }

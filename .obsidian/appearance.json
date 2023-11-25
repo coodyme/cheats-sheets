@@ -1,8 +1,8 @@
 {
-  "accentColor": "#16fafe",
+  "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "",
-  "baseFontSize": 16,
+  "baseFontSize": 20,
   "interfaceFontFamily": "Fira Code",
   "textFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code",

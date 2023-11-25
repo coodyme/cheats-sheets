@@ -1,15 +1,3 @@
----
-title: 'Docker CLI'
-excerpt: 'How to use Docker CLI commands.'
-createdAt: '2021-09-02'
-updatedAt: '2022-01-14'
-author:
-  name: Augusto Brito
-  avatar: 'https://github.com/augustobritodev.png?size=48'
-highlighted: 'false'
-color: 'orange'
----
-
 #devops 
 #docker
 #cli
