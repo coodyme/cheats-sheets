@@ -1,24 +1,17 @@
 #docker 
-# Docker e Docker Compose do zero ao Deploy
-
-Category: Containers, Docker
-Last edited time: July 22, 2022 1:41 PM
-
-# Docker
-
-# Docker Compose
-
-# Copy files
+#docker-files
+## Copy files from Docker to Host
 
 ```bash
-# From Docker to Host
 docker cp <containerId>:/file/path/within/container /host/path/target
+```
 
-# From Host to Docker
+## From Host to Docker
+```bash
 docker cp /host/path/target <containerId>:/file/path/within/container
 ```
 
-# Execute console
+## Execute console
 
 ```bash
 docker exec -it <container_id_or_name> ./bin.bash

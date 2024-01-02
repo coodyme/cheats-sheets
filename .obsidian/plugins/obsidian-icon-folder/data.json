@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrowserCheck",
+      "SiLinux",
       "SiMicrosoftazure",
       "SiAzuredevops",
-      "SiRedis",
-      "SiMongodb",
-      "SiPostgresql"
+      "SiRedis"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,7 @@
   "postgresql": "SiPostgresql",
   "mongodb": "SiMongodb",
   "redis": "SiRedis",
-  "azure": "SiMicrosoftazure"
+  "azure": "SiMicrosoftazure",
+  "linux": "SiLinux",
+  "http": "TiBrowserCheck"
 }
