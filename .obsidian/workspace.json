@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssh/ssh-key.md",
+                "file": "docker/docker-install.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssh/ssh-key.md",
+                "file": "docker/docker-install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ssh/ssh-key.md",
+                "file": "docker/docker-install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ssh/ssh-key.md"
+                "file": "docker/docker-install.md"
               }
             }
           },
@@ -151,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -176,55 +178,55 @@
   },
   "active": "3fca7d6082c3bda1",
   "lastOpenFiles": [
+    "topics/-/templates/templates_TEMPLATE.md",
+    "topics/ssh/ssh_ssh-key.md",
+    "topics/network/network_Network.md",
+    "topics/http/http_cURL.md",
+    "topics/git/git_github-cli.md",
+    "topics/git/git_branches.md",
+    "topics/driver/driver_pulse.md",
+    "topics/docker/docker_docker-network.md",
+    "topics/docker/docker_docker-install.md",
+    "topics/docker/docker_docker-compose.md",
+    "topics/docker/docker_docker-cli.md",
+    "topics/-/templates",
+    "topics/topics_rsync.md",
+    "topics/topics_count.md",
+    "topics/topics_Starter.md",
+    "topics/topics_README.md",
+    "topics/topics_Marketplace.md",
+    "topics/topics_Default-topic.md",
+    "topics/topics_Config.md",
+    "topics/topics_Commands.md",
+    "topics/ssh",
+    "topics/network",
+    "topics/http",
+    "topics/git",
+    "topics/driver",
+    "topics/docker",
+    "topics/-",
+    "topics",
+    "teste.md",
+    "Starter.md",
+    "Default-topic.md",
+    "docker/docker-compose.md",
+    "docker/docker-cli.md",
+    "ssh/ssh-key.md",
     "network/Network.md",
-    "count.md",
-    "rsync.md",
-    "Marketplace.md",
-    "Config.md",
-    "Commands.md",
-    "git/git-stash.md",
-    "github/github-flow.md",
-    "github/how-to-contribute.md",
-    "git/trunk-based-developmentvs-git-flow.md",
     "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
     "-/attachments/diagram-export-11-15-2023-7_49_28-PM.png",
-    "README.md",
     "-/attachments/diagram-export-11-15-2023-7_52_26-PM.png",
-    "2023-11-15.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "react/state-and-props.md",
-    "react/redux.md",
-    "react/react-router.md",
-    "react/useEffect-and-useLayoutEffect.md",
-    "react/useState-and-useRef.md",
-    "react/useMemo-and-useCallback.md",
-    "react/what-is-a-react-hook.md",
-    "react/what-is-jsx.md",
-    "react/what-is-prop-drilling.md",
-    "react/zustand-and-react-query.md",
-    "react/lifecycle-methods.md",
-    "react/keys-in-react.md",
-    "react/high-order-components.md",
-    "react/controlled-vs-uncontrolled-components.md",
     "-/attachments/event-loop-0.gif",
     "-/attachments/dom-virtual-dom-shadow-dom-00.png",
     "-/attachments/state-and-props-00.png",
     "-/attachments/Recording 20231115145219.webm",
-    "-/attachments/Recording 20231115145216.webm",
     "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/nest_jwt_3.png",
     "-/attachments/nest_jwt_1.png",
     "-/attachments/nest_jwt_0.png",
-    "react/7-api-calls",
-    "react/6-styling",
-    "react/5-state-management",
-    "react/4-routers",
-    "react/zustand",
-    "azure",
-    "redis",
-    "postgresql",
     "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]
