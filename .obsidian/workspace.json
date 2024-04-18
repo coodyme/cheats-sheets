@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/argon2.md",
+                "file": "linux/vpn.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200
   },
   "right": {
     "id": "9941d871b9c3b5ca",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/argon2.md",
+                "file": "linux/vpn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/argon2.md",
+                "file": "linux/vpn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/argon2.md"
+                "file": "linux/vpn.md"
               }
             }
           },
@@ -178,22 +178,23 @@
   },
   "active": "14faa737a36bdd3a",
   "lastOpenFiles": [
-    "linux/wireguard.md",
+    "docker/docker-cli.md",
+    "linux/vpn.md",
     "linux/argon2.md",
     "linux/disk-usage.md",
+    "linux/find.md",
+    "linux/general.md",
+    "linux/grep.md",
+    "linux/rename.md",
+    "linux/rsync.md",
+    "linux/system-manger.md",
+    "docker/docker-network.md",
+    "docker/docker-files.md",
+    "linux/wireguard.md",
     "linux/driver.md",
     "git/branches.md",
     "git/github-cli.md",
     "http/curl.md",
-    "linux/find.md",
-    "linux/general.md",
-    "linux/grep.md",
-    "linux/rsync.md",
-    "linux/system-manger.md",
-    "docker/docker-cli.md",
-    "docker/docker-files.md",
-    "linux/rename.md",
-    "docker/docker-network.md",
     "docker/docker-install.md",
     "README.md",
     "Config.md",
@@ -204,7 +205,6 @@
     "set-static-ip.md",
     "generate-ssh-key.md",
     "linux",
-    "teste.md",
     "topics/-/templates",
     "topics/ssh",
     "topics/network",
