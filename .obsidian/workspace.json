@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/vpn.md",
+                "file": "linux/fix-bluetooth.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/vpn.md",
+                "file": "linux/fix-bluetooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/vpn.md",
+                "file": "linux/fix-bluetooth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/vpn.md"
+                "file": "linux/fix-bluetooth.md"
               }
             }
           },
@@ -178,20 +178,21 @@
   },
   "active": "14faa737a36bdd3a",
   "lastOpenFiles": [
-    "docker/docker-cli.md",
+    "linux/general.md",
+    "linux/system-manger.md",
+    "linux/rsync.md",
+    "linux/fix-bluetooth.md",
+    "linux/grep.md",
+    "linux/find.md",
+    "linux/driver.md",
     "linux/vpn.md",
+    "docker/docker-cli.md",
     "linux/argon2.md",
     "linux/disk-usage.md",
-    "linux/find.md",
-    "linux/general.md",
-    "linux/grep.md",
     "linux/rename.md",
-    "linux/rsync.md",
-    "linux/system-manger.md",
     "docker/docker-network.md",
     "docker/docker-files.md",
     "linux/wireguard.md",
-    "linux/driver.md",
     "git/branches.md",
     "git/github-cli.md",
     "http/curl.md",
@@ -203,7 +204,6 @@
     "rsync.md",
     "Commands.md",
     "set-static-ip.md",
-    "generate-ssh-key.md",
     "linux",
     "topics/-/templates",
     "topics/ssh",
